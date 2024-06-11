@@ -1,0 +1,11 @@
+{
+	"name": "ui",
+	"version": "2.0.0",
+	"description": "",
+	"type": "module",
+	"main": "./src/index.ts",
+	"scripts": {},
+	"keywords": [],
+	"author": "",
+	"license": "ISC"
+}

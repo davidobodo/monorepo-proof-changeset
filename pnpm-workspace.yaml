@@ -1,0 +1,4 @@
+packages:
+ - "__apps/redbrick-frontend"
+ - "__apps/altadb-frontend"
+ - "__packages/**"
