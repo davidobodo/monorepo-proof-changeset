@@ -1,5 +1,11 @@
 # ui
 
+## 2.0.1
+
+### Patch Changes
+
+- e0adeef: new github package
+
 ## 2.0.0
 
 ### Major Changes
