@@ -1,5 +1,14 @@
 # altadb-frontend
 
+## 0.0.2
+
+### Patch Changes
+
+- e0adeef: new github package
+- 2ad454d: altadb frontend text here
+- Updated dependencies [e0adeef]
+  - ui@2.0.1
+
 ## 0.0.1
 
 ### Patch Changes
