@@ -1,5 +1,16 @@
 # altadb-frontend
 
+## 0.2.0
+
+### Minor Changes
+
+- ad560a4: First altadb change after changeset
+
+### Patch Changes
+
+- Updated dependencies [20d988b]
+  - ui@2.0.2
+
 ## 0.1.0
 
 ### Minor Changes

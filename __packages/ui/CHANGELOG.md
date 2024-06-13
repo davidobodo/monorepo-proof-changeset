@@ -1,5 +1,11 @@
 # ui
 
+## 2.0.2
+
+### Patch Changes
+
+- 20d988b: front(ui) - :zap: add border radius to button
+
 ## 2.0.1
 
 ### Patch Changes
