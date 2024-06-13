@@ -2,4 +2,4 @@
 "altadb": patch
 ---
 
-second changeset for redbrick
+second changeset for altadb
