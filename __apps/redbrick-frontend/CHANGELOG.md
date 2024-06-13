@@ -1,5 +1,13 @@
 # redbrick-frontend
 
+## 1.0.1
+
+### Patch Changes
+
+- e0adeef: new github package
+- Updated dependencies [e0adeef]
+  - ui@2.0.1
+
 ## 1.0.0
 
 ### Major Changes
