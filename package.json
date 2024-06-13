@@ -5,7 +5,8 @@
 	"main": "index.js",
 	"scripts": {
 		"changelog-redbrick": "pnpm changeset version --ignore altadb",
-		"changelog-altadb": "pnpm changeset version --ignore redbrick"
+		"changelog-altadb": "pnpm changeset version --ignore redbrick",
+		"gen-changeset": "pnpm changeset"
 	},
 	"keywords": [],
 	"author": "",
