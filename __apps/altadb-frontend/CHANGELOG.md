@@ -1,5 +1,11 @@
 # altadb-frontend
 
+## 0.1.0
+
+### Minor Changes
+
+- 521b8a1: The changes i make into altadb
+
 ## 0.0.2
 
 ### Patch Changes
