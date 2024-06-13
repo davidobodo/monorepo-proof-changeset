@@ -1,5 +1,11 @@
 # redbrick-frontend
 
+## 1.1.0
+
+### Minor Changes
+
+- 928ee8b: Changes related just to redbrick frontend and backend
+
 ## 1.0.1
 
 ### Patch Changes
