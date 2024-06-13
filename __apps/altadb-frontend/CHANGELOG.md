@@ -1,5 +1,15 @@
 # altadb-frontend
 
+## 0.3.0
+
+### Minor Changes
+
+- dbd2b10: First changeset for altadb
+
+### Patch Changes
+
+- e4456cd: second changeset for redbrick
+
 ## 0.2.0
 
 ### Minor Changes
