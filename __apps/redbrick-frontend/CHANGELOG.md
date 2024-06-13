@@ -1,5 +1,15 @@
 # redbrick-frontend
 
+## 1.3.0
+
+### Minor Changes
+
+- 9e1ad60: First changeset for redbrick
+
+### Patch Changes
+
+- fcf48ec: Second changeset for redbrick
+
 ## 1.2.0
 
 ### Minor Changes
