@@ -40,7 +40,7 @@ function App() {
 			<h1>THE FIRST APPLICATION</h1>
 			<p>Add a paragraph to the first app</p>
 			<p>Second changed package</p>
-			<p>abc</p>
+			<p>abcedf</p>
 			<Button onClick={handleGetData} text="Get Data" />
 			<Button onClick={handleGetStatus} text="Get Status" />
 
