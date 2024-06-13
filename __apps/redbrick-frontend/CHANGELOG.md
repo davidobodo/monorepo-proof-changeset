@@ -1,5 +1,11 @@
 # redbrick-frontend
 
+## 1.2.0
+
+### Minor Changes
+
+- 00e95d5: First Pr after specifying version in workflow
+
 ## 1.1.0
 
 ### Minor Changes
