@@ -1,4 +1,4 @@
-name: Release Redbrick
+name: Generate Redbrick release changelog
 
 on:
  workflow_dispatch:
@@ -7,7 +7,7 @@ concurrency: ${{ github.workflow }}-${{ github.ref }}
 
 jobs:
  release:
-  name: Release
+  name: Generate changelog
   runs-on: ubuntu-latest
   steps:
    - name: Checkout Repo
