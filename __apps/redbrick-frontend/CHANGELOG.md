@@ -1,5 +1,12 @@
 # redbrick-frontend
 
+## 2.1.0
+
+### Minor Changes
+
+- c4b99d1: fr - ⚡ some feature to redbrick
+- eccb11a: br - ⚡ some feature to redbrick
+
 ## 2.0.0
 
 ### Major Changes
