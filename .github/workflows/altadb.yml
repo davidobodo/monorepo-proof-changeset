@@ -1,4 +1,4 @@
-name: AltaDB
+name: AltaDB deployment
 
 on:
   push:
