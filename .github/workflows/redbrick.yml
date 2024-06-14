@@ -1,4 +1,4 @@
-name: Redbrick
+name: Redbrick Deployment
 
 on:
   push:
