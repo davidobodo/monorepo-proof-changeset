@@ -1,5 +1,13 @@
 # altadb-frontend
 
+## 2.0.0
+
+### Major Changes
+
+- 0394bb2: ba - :zap: some major feature 1
+  The major change in altadb
+- 9841511: fa - ⚡ some major feature 1 adb
+
 ## 1.0.0
 
 ### Major Changes
