@@ -1,5 +1,17 @@
 # redbrick-frontend
 
+## 2.0.0
+
+### Major Changes
+
+- 7815392: br - :zap: feature 1 (rb)
+- 56abd3a: fr - :zap: feature 1 (rb)
+
+### Minor Changes
+
+- fef2e01: fr - ⚡ show-derek redbrick
+- 2f2676f: br - ⚡ backend demo 2
+
 ## 1.3.0
 
 ### Minor Changes
