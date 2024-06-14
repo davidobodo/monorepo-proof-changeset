@@ -1,5 +1,12 @@
 # altadb-frontend
 
+## 1.0.0
+
+### Major Changes
+
+- 2f282b2: fa - ⚡ feature 1 (adb) @davidobodo
+- 617a772: ba - ⚡ feature 1 (adb)
+
 ## 0.4.0
 
 ### Minor Changes
