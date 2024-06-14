@@ -1,5 +1,12 @@
 # altadb-frontend
 
+## 0.4.0
+
+### Minor Changes
+
+- ae998dc: front(altadb) - :zap: demo altadb change 1
+- 5f3b219: ba - :zap: some backend change
+
 ## 0.3.0
 
 ### Minor Changes
